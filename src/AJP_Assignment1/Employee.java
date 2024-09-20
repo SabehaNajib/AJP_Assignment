@@ -30,7 +30,7 @@ class Manager extends Employee {
     }
 }
 
-class main{
+class EmployeeMain{
     public static void main(String[] args){
         Employee emp = new Employee("John Smith", "101", 60000);
         System.out.println("Employee Details:");
